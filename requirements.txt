@@ -5,3 +5,11 @@ faiss-cpu
 sentence-transformers
 openai
 tiktoken
+streamlit
+pypdf
+PyMuPDF
+langchain
+faiss-cpu
+sentence-transformers
+openai
+tiktoken
